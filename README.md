@@ -3,8 +3,8 @@
 
 
 # Opening the project
-1) Run ```git clone git@github.com:FoxSylv1/treacherous-trials-plus.git```
-(note: A `Git` installation is required)
+1) Download the project files.
+```git clone git@github.com:FoxSylv1/treacherous-trials-plus.git```
 
 2) Use `Unity Hub` to open the cloned directory (the name of the project
 you're trying to open should read `treacherous-trials-plus`).
