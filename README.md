@@ -4,12 +4,14 @@
 
 # Opening the project
 1) Download the project files.
-```git clone git@github.com:FoxSylv1/treacherous-trials-plus.git```
+```git clone git@github.com:FoxSylv1/treacherous-trials-plus.git``` (You need to have [Git](https://git-scm.com/download/))
 
-2) Use `Unity Hub` to open the cloned directory (the name of the project
+2) Make sure to have Unity 2021 so everything works correctly
+
+3) Use `Unity Hub` to open the cloned directory (the name of the project
 you're trying to open should read `treacherous-trials-plus`).
 
-3) The project should open after some loading time, and be
+4) The project should open after some loading time, and be
 fully functional.
 
 
